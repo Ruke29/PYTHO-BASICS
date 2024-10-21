@@ -1,0 +1,6 @@
+# CHECK POSITIVE NUMBER#
+NUM = int(input("ENTER A NUMBER:"))
+if NUM>0:
+    print(NUM, "ITS A POSITIVE NUMBER")
+elif NUM<0:
+    print(NUM, "ITS A NEGATIVE NUMBER")
